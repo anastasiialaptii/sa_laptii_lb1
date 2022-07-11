@@ -1,0 +1,13 @@
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.csprojAssemblyReference.cache
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.AssemblyInfoInputs.cache
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.AssemblyInfo.cs
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.csproj.CoreCompileInputs.cache
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.exe
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.deps.json
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.runtimeconfig.json
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.runtimeconfig.dev.json
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.dll
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\bin\Debug\netcoreapp3.1\sa_laptii_lb1.pdb
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.dll
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.pdb
+C:\Users\lapti\source\repos\sa_laptii_lb1\sa_laptii_lb1\obj\Debug\netcoreapp3.1\sa_laptii_lb1.genruntimeconfig.cache

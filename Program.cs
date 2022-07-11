@@ -46,6 +46,7 @@ namespace sa_laptii_lb1
             //var text3 = "var x = 0; if (x > 0) x = 1; else x = x + 3 - 0; ";
             //var text4 = "var x = 0; while(x = 0) { var t = 1+3; t++;}";
             var text5 = "int i = -1; do { var i = -2738; i++;} while (i > 0);";
+            //var error_text6 = "return x == 0 ? x : 7;";
 
             foreach (var token in Tokenize(text5))
                 Console.WriteLine(token.Type);
